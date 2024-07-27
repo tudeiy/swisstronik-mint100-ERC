@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # swisstronik-mint-100-ERC-20
+# swisstronik-mint100-ERC
